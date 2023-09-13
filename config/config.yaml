@@ -3,7 +3,7 @@ artifacts_root: outputs
 data_ingestion:
   root_dir: outputs/data_ingestion
   source_URL: https://github.com/entbappy/Branching-tutorial/raw/master/summarizer-data.zip
-  local_data_files: ouputs/data_ingestion/data.zip
+  local_data_file: ouputs/data_ingestion/data.zip
   unzip_dir: outputs/data_ingestion
 
 
